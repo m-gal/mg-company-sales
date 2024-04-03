@@ -1,0 +1,10 @@
+## conda:
+	google-cloud-storage
+	google-cloud-bigquery
+	pandas
+	scikit-learn
+	pydot
+	python-dotenv
+
+## pip:
+	tensorflow
